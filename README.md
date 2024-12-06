@@ -1,4 +1,4 @@
-# 2024最新版ChatGPT中文版：镜像站推荐与使用指南
+# 2024最新 ChatGPT中文版：国内访问指南
 
 ChatGPT中文版已经成为国内用户了解人工智能的最佳途径。本页面将为您详细介绍最新的ChatGPT中文版镜像站，以及使用教程和常见问题解答，让您轻松享受AI的乐趣！
 
@@ -20,7 +20,7 @@ ChatGPT中文版是基于[OpenAI](https://openai.com)官方网站的镜像站，
 | 镜像站点名称 | 地址 | 支持模型 | 特点 |
 |--------------|------|----------|------|
 | 蛇语AI | [snakegpt.work](https://snakegpt.work/) | GPT-4.0 | 支持MidJourney绘画 |
-| 中文猫GPT| https://gptcat.net/ | GPT-4.0、o1 | 支持文件阅读 |
+| 中文猫GPT| [https://gptcat.net/](https://gptcat.net/) | GPT-4.0、o1 | 支持文件阅读 |
 
 ---
 
